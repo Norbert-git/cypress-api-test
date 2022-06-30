@@ -1,0 +1,9 @@
+
+{
+	"baseUrl": "https://localhost:3000",
+	"chromeWebSecurity": false,
+	"ignoreTestFiles": "**/examples/*",
+	"viewportHeight": 1080,
+	"viewportWidth": 1920,
+	"testFiles": "**/*.spec.js"
+}
